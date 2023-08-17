@@ -14,11 +14,15 @@ The requirements are as follows:
 
 ## Process and Resources
 ### Timeline
-08?? Created repository, cloned locally, added and commited starter files.
+0808 Created repository, cloned locally, added and commited starter files.
 
 0814 Successfully used D3 to pull in the json.  Worked on pulling data but got stuck.  Got advice with an idea on how to proceed during office hours.
 
-0815 Set up README format. Successfully pulled top 10 OTU's to be able to work with.
+0815 Set up README format. Successfully pulled top 10 OTU's to be able to work with.  
+
+0815 Create bar chart and bubble chart but format is not optimal (or like example)  
+
+0817 Worked with Tutor Kelli Kennedy to structure the code logically, describe the functions, and work through the init function. Learned some shortcuts on VS Code.
 
 ### Links used:
 Used examples from Module 14 class activities.
@@ -35,4 +39,5 @@ From the html file provided in starter code:
 ## Contributing
 *  Solo Challenge - Aleid van der Zel  
 *  Through Slack ask the class got hint from Panfilo Marbibi to pull data using functions and moral support from Eva Pazdera. 
-*  From Andrew Krieger got clarification on how to look at data and refer to it (console.log is just a print statement to view the data).  
+*  From Andrew Krieger got clarification on how to look at data and refer to it (console.log is just a print statement to view the data) and hint to use filter.
+*  Tutoring session with Kelli Kennedy on 8/17 was helful to understand logic in Javascript and set up init function.  
